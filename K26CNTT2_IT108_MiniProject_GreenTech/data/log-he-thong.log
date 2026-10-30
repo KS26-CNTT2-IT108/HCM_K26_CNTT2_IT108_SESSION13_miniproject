@@ -1,0 +1,300 @@
+2026-10-29 00:01:40 [INFO] TRAM-019 Dang nhap thanh cong user=nongdan01
+2026-10-29 00:05:27 [WARN] TRAM-038 Do tre mang cao 850ms
+2026-10-29 00:13:47 [INFO] TRAM-007 Dang nhap thanh cong user=nongdan01
+2026-10-29 00:23:10 [TIMEOUT] TRAM-095 Ket noi co so du lieu qua han
+2026-10-29 00:38:33 [INFO] TRAM-050 Dong bo du lieu hoan tat
+2026-10-29 00:39:22 [WARN] TRAM-014 Pin tram cam bien duoi 20%
+2026-10-29 00:51:27 [ERROR 404] TRAM-007 Khong tim thay /api/report/daily
+2026-10-29 00:57:22 [WARN] TRAM-069 Do tre mang cao 850ms
+2026-10-29 01:03:26 [TIMEOUT] TRAM-028 Ket noi co so du lieu qua han
+2026-10-29 01:05:05 [INFO] TRAM-085 Dang nhap thanh cong user=nongdan01
+2026-10-29 01:05:45 [INFO] TRAM-006 Dong bo du lieu hoan tat
+2026-10-29 01:09:17 [INFO] TRAM-010 Dang nhap thanh cong user=nongdan01
+2026-10-29 01:22:06 [INFO] TRAM-087 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 01:26:30 [ERROR 404] TRAM-081 Khong tim thay /api/report/daily
+2026-10-29 01:26:45 [INFO] TRAM-059 Dong bo du lieu hoan tat
+2026-10-29 01:34:43 [INFO] TRAM-075 Dong bo du lieu hoan tat
+2026-10-29 01:35:46 [INFO] TRAM-061 Dong bo du lieu hoan tat
+2026-10-29 01:37:49 [INFO] TRAM-080 Dang nhap thanh cong user=nongdan01
+2026-10-29 01:38:20 [INFO] TRAM-013 Dang nhap thanh cong user=nongdan01
+2026-10-29 01:39:47 [ERROR 404] TRAM-099 Khong tim thay /api/sensor/{id}
+2026-10-29 01:40:09 [INFO] TRAM-070 Dong bo du lieu hoan tat
+2026-10-29 01:45:44 [INFO] TRAM-064 Dang nhap thanh cong user=nongdan01
+2026-10-29 01:58:22 [WARN] TRAM-052 Do tre mang cao 850ms
+2026-10-29 02:01:41 [INFO] TRAM-014 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 02:03:00 [INFO] TRAM-049 Dang nhap thanh cong user=nongdan01
+2026-10-29 02:14:22 [INFO] TRAM-078 Dong bo du lieu hoan tat
+2026-10-29 02:17:43 [INFO] TRAM-081 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 02:23:37 [INFO] TRAM-056 Dong bo du lieu hoan tat
+2026-10-29 02:28:19 [INFO] TRAM-038 Dang nhap thanh cong user=nongdan01
+2026-10-29 02:28:33 [ERROR 404] TRAM-065 Khong tim thay /api/sensor/{id}
+2026-10-29 02:29:57 [ERROR 404] TRAM-080 Khong tim thay /api/sensor/{id}
+2026-10-29 02:42:32 [INFO] TRAM-016 Dong bo du lieu hoan tat
+2026-10-29 02:43:09 [WARN] TRAM-044 Do tre mang cao 850ms
+2026-10-29 02:43:54 [INFO] TRAM-052 Dang nhap thanh cong user=nongdan01
+2026-10-29 02:46:51 [TIMEOUT] TRAM-097 Tram cam bien khong phan hoi sau 30s
+2026-10-29 02:54:34 [WARN] TRAM-042 Pin tram cam bien duoi 20%
+2026-10-29 02:57:11 [INFO] TRAM-004 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:04:08 [INFO] TRAM-070 Dong bo du lieu hoan tat
+2026-10-29 03:07:13 [INFO] TRAM-057 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:10:23 [WARN] TRAM-046 Do tre mang cao 850ms
+2026-10-29 03:11:11 [INFO] TRAM-041 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:11:48 [INFO] TRAM-077 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:26:36 [ERROR 404] TRAM-001 Khong tim thay /api/sensor/{id}
+2026-10-29 03:26:45 [ERROR 404] TRAM-071 Khong tim thay /api/report/daily
+2026-10-29 03:26:47 [INFO] TRAM-095 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:29:21 [INFO] TRAM-022 Dong bo du lieu hoan tat
+2026-10-29 03:38:55 [INFO] TRAM-007 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:41:16 [INFO] TRAM-100 Dang nhap thanh cong user=nongdan01
+2026-10-29 03:48:53 [INFO] TRAM-041 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 03:53:38 [INFO] TRAM-074 Dong bo du lieu hoan tat
+2026-10-29 04:00:34 [INFO] TRAM-049 Dong bo du lieu hoan tat
+2026-10-29 04:03:38 [INFO] TRAM-088 Dong bo du lieu hoan tat
+2026-10-29 04:10:19 [INFO] TRAM-097 Dang nhap thanh cong user=nongdan01
+2026-10-29 04:12:23 [ERROR 404] TRAM-049 Khong tim thay /api/report/daily
+2026-10-29 04:17:58 [INFO] TRAM-096 Dong bo du lieu hoan tat
+2026-10-29 04:29:08 [INFO] TRAM-099 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 04:31:57 [ERROR 404] TRAM-090 Khong tim thay /api/report/daily
+2026-10-29 04:35:25 [CRITICAL] TRAM-039 O dia SSD day 99%
+2026-10-29 04:37:43 [INFO] TRAM-020 Dong bo du lieu hoan tat
+2026-10-29 04:39:00 [INFO] TRAM-076 Dang nhap thanh cong user=nongdan01
+2026-10-29 04:39:41 [INFO] TRAM-081 Dang nhap thanh cong user=nongdan01
+2026-10-29 04:43:17 [INFO] TRAM-045 Dong bo du lieu hoan tat
+2026-10-29 04:43:37 [INFO] TRAM-083 Dong bo du lieu hoan tat
+2026-10-29 04:44:06 [INFO] TRAM-039 Dong bo du lieu hoan tat
+2026-10-29 04:47:00 [ERROR 500] TRAM-030 Loi may chu noi bo khi ghi du lieu
+2026-10-29 04:54:47 [INFO] TRAM-080 Dang nhap thanh cong user=nongdan01
+2026-10-29 04:56:59 [INFO] TRAM-097 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 04:57:56 [INFO] TRAM-025 Dang nhap thanh cong user=nongdan01
+2026-10-29 05:03:33 [WARN] TRAM-039 Do tre mang cao 850ms
+2026-10-29 05:04:18 [INFO] TRAM-022 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 05:12:55 [WARN] TRAM-037 Do tre mang cao 850ms
+2026-10-29 05:14:03 [INFO] TRAM-071 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 05:38:08 [INFO] TRAM-058 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 05:40:27 [INFO] TRAM-032 Dong bo du lieu hoan tat
+2026-10-29 05:46:30 [INFO] TRAM-015 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 05:49:25 [INFO] TRAM-053 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 05:50:09 [INFO] TRAM-075 Dong bo du lieu hoan tat
+2026-10-29 05:55:42 [ERROR 404] TRAM-031 Khong tim thay /api/sensor/{id}
+2026-10-29 06:13:30 [INFO] TRAM-097 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 06:13:48 [INFO] TRAM-013 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 06:23:24 [INFO] TRAM-053 Dong bo du lieu hoan tat
+2026-10-29 06:24:01 [INFO] TRAM-064 Dong bo du lieu hoan tat
+2026-10-29 06:29:18 [ERROR 500] TRAM-013 Loi may chu noi bo khi ghi du lieu
+2026-10-29 06:32:44 [ERROR 404] TRAM-079 Khong tim thay /api/sensor/{id}
+2026-10-29 06:38:29 [INFO] TRAM-039 Dang nhap thanh cong user=nongdan01
+2026-10-29 06:42:13 [TIMEOUT] TRAM-056 Tram cam bien khong phan hoi sau 30s
+2026-10-29 06:42:25 [INFO] TRAM-042 Dang nhap thanh cong user=nongdan01
+2026-10-29 06:43:06 [INFO] TRAM-090 Dong bo du lieu hoan tat
+2026-10-29 06:47:44 [INFO] TRAM-048 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 06:48:27 [INFO] TRAM-077 Dong bo du lieu hoan tat
+2026-10-29 06:53:38 [INFO] TRAM-067 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 07:06:07 [INFO] TRAM-017 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 07:09:08 [ERROR 404] TRAM-028 Khong tim thay /api/report/daily
+2026-10-29 07:09:53 [INFO] TRAM-077 Dong bo du lieu hoan tat
+2026-10-29 07:12:33 [WARN] TRAM-026 Do tre mang cao 850ms
+2026-10-29 07:13:13 [CRITICAL] TRAM-033 Mat ket noi toan he thong
+2026-10-29 07:20:03 [INFO] TRAM-006 Dong bo du lieu hoan tat
+2026-10-29 07:32:19 [ERROR 500] TRAM-055 Loi may chu noi bo khi ghi du lieu
+2026-10-29 07:37:08 [INFO] TRAM-066 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 07:40:52 [ERROR 404] TRAM-057 Khong tim thay /api/report/daily
+2026-10-29 07:44:07 [INFO] TRAM-034 Dang nhap thanh cong user=nongdan01
+2026-10-29 07:51:38 [INFO] TRAM-005 Dong bo du lieu hoan tat
+2026-10-29 07:56:45 [INFO] TRAM-070 Dong bo du lieu hoan tat
+2026-10-29 08:00:50 [INFO] TRAM-083 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 08:01:34 [INFO] TRAM-081 Dang nhap thanh cong user=nongdan01
+2026-10-29 08:02:41 [INFO] TRAM-097 Dang nhap thanh cong user=nongdan01
+2026-10-29 08:04:38 [INFO] TRAM-030 Dong bo du lieu hoan tat
+2026-10-29 08:09:39 [INFO] TRAM-020 Dong bo du lieu hoan tat
+2026-10-29 08:15:02 [WARN] TRAM-055 Pin tram cam bien duoi 20%
+2026-10-29 08:25:56 [INFO] TRAM-008 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 08:26:12 [INFO] TRAM-087 Dong bo du lieu hoan tat
+2026-10-29 08:38:58 [INFO] TRAM-087 Dang nhap thanh cong user=nongdan01
+2026-10-29 08:49:29 [INFO] TRAM-047 Dang nhap thanh cong user=nongdan01
+2026-10-29 08:49:38 [WARN] TRAM-006 Pin tram cam bien duoi 20%
+2026-10-29 08:49:43 [INFO] TRAM-083 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 08:57:41 [ERROR 500] TRAM-038 Loi may chu noi bo khi ghi du lieu
+2026-10-29 09:02:21 [INFO] TRAM-077 Dong bo du lieu hoan tat
+2026-10-29 09:11:38 [WARN] TRAM-038 Pin tram cam bien duoi 20%
+2026-10-29 09:12:31 [INFO] TRAM-045 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 09:13:15 [INFO] TRAM-038 Dang nhap thanh cong user=nongdan01
+2026-10-29 09:25:22 [WARN] TRAM-023 Pin tram cam bien duoi 20%
+2026-10-29 09:28:56 [INFO] TRAM-043 Dang nhap thanh cong user=nongdan01
+2026-10-29 09:30:06 [INFO] TRAM-037 Dong bo du lieu hoan tat
+2026-10-29 09:31:25 [INFO] TRAM-069 Dang nhap thanh cong user=nongdan01
+2026-10-29 09:54:35 [INFO] TRAM-082 Dang nhap thanh cong user=nongdan01
+2026-10-29 10:04:12 [INFO] TRAM-036 Dang nhap thanh cong user=nongdan01
+2026-10-29 10:04:49 [INFO] TRAM-090 Dang nhap thanh cong user=nongdan01
+2026-10-29 10:11:18 [ERROR 404] TRAM-081 Khong tim thay /api/report/daily
+2026-10-29 10:35:23 [INFO] TRAM-050 Dong bo du lieu hoan tat
+2026-10-29 10:47:48 [ERROR 404] TRAM-054 Khong tim thay /api/sensor/{id}
+2026-10-29 10:48:30 [INFO] TRAM-028 Dang nhap thanh cong user=nongdan01
+2026-10-29 10:50:19 [ERROR 404] TRAM-003 Khong tim thay /api/sensor/{id}
+2026-10-29 10:53:59 [WARN] TRAM-087 Do tre mang cao 850ms
+2026-10-29 10:54:12 [INFO] TRAM-023 Dang nhap thanh cong user=nongdan01
+2026-10-29 11:03:10 [INFO] TRAM-022 Dong bo du lieu hoan tat
+2026-10-29 11:04:52 [WARN] TRAM-010 Pin tram cam bien duoi 20%
+2026-10-29 11:22:38 [WARN] TRAM-081 Do tre mang cao 850ms
+2026-10-29 11:32:48 [INFO] TRAM-065 Dang nhap thanh cong user=nongdan01
+2026-10-29 11:34:00 [WARN] TRAM-046 Pin tram cam bien duoi 20%
+2026-10-29 11:40:06 [INFO] TRAM-011 Dong bo du lieu hoan tat
+2026-10-29 11:42:12 [INFO] TRAM-001 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 11:51:13 [INFO] TRAM-096 Dong bo du lieu hoan tat
+2026-10-29 11:53:51 [INFO] TRAM-098 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 11:56:31 [INFO] TRAM-021 Dong bo du lieu hoan tat
+2026-10-29 11:59:49 [INFO] TRAM-035 Dang nhap thanh cong user=nongdan01
+2026-10-29 11:59:49 [INFO] TRAM-037 Dong bo du lieu hoan tat
+2026-10-29 12:11:25 [INFO] TRAM-062 Dong bo du lieu hoan tat
+2026-10-29 12:12:45 [INFO] TRAM-073 Dong bo du lieu hoan tat
+2026-10-29 12:15:31 [ERROR 500] TRAM-091 Loi may chu noi bo khi ghi du lieu
+2026-10-29 12:22:53 [INFO] TRAM-093 Dong bo du lieu hoan tat
+2026-10-29 12:23:15 [ERROR 500] TRAM-075 Loi may chu noi bo khi ghi du lieu
+2026-10-29 12:25:16 [INFO] TRAM-007 Dong bo du lieu hoan tat
+2026-10-29 12:30:46 [INFO] TRAM-065 Dong bo du lieu hoan tat
+2026-10-29 12:31:17 [ERROR 404] TRAM-037 Khong tim thay /api/report/daily
+2026-10-29 12:36:05 [INFO] TRAM-017 Dang nhap thanh cong user=nongdan01
+2026-10-29 12:37:18 [INFO] TRAM-019 Dang nhap thanh cong user=nongdan01
+2026-10-29 12:39:51 [INFO] TRAM-041 Dong bo du lieu hoan tat
+2026-10-29 12:42:25 [WARN] TRAM-084 Do tre mang cao 850ms
+2026-10-29 12:43:41 [INFO] TRAM-089 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 12:46:30 [INFO] TRAM-030 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 12:55:27 [WARN] TRAM-078 Pin tram cam bien duoi 20%
+2026-10-29 13:03:15 [INFO] TRAM-059 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 13:04:58 [WARN] TRAM-053 Pin tram cam bien duoi 20%
+2026-10-29 13:08:31 [INFO] TRAM-025 Dang nhap thanh cong user=nongdan01
+2026-10-29 13:22:11 [TIMEOUT] TRAM-034 Ket noi co so du lieu qua han
+2026-10-29 13:25:56 [WARN] TRAM-100 Pin tram cam bien duoi 20%
+2026-10-29 13:28:56 [WARN] TRAM-055 Pin tram cam bien duoi 20%
+2026-10-29 13:34:24 [INFO] TRAM-070 Dong bo du lieu hoan tat
+2026-10-29 13:34:31 [INFO] TRAM-045 Dong bo du lieu hoan tat
+2026-10-29 13:37:18 [INFO] TRAM-064 Dong bo du lieu hoan tat
+2026-10-29 13:37:34 [INFO] TRAM-100 Dang nhap thanh cong user=nongdan01
+2026-10-29 13:42:44 [INFO] TRAM-095 Dang nhap thanh cong user=nongdan01
+2026-10-29 13:47:53 [INFO] TRAM-029 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 13:48:31 [INFO] TRAM-037 Dang nhap thanh cong user=nongdan01
+2026-10-29 13:56:16 [INFO] TRAM-038 Dang nhap thanh cong user=nongdan01
+2026-10-29 14:02:39 [INFO] TRAM-056 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 14:03:03 [WARN] TRAM-007 Pin tram cam bien duoi 20%
+2026-10-29 14:14:14 [ERROR 404] TRAM-068 Khong tim thay /api/sensor/{id}
+2026-10-29 14:16:29 [INFO] TRAM-069 Dong bo du lieu hoan tat
+2026-10-29 14:23:11 [WARN] TRAM-027 Do tre mang cao 850ms
+2026-10-29 14:30:19 [INFO] TRAM-029 Dong bo du lieu hoan tat
+2026-10-29 14:31:05 [INFO] TRAM-066 Dong bo du lieu hoan tat
+2026-10-29 14:35:46 [INFO] TRAM-072 Dong bo du lieu hoan tat
+2026-10-29 14:44:08 [INFO] TRAM-018 Dang nhap thanh cong user=nongdan01
+2026-10-29 14:55:07 [WARN] TRAM-023 Do tre mang cao 850ms
+2026-10-29 15:02:37 [ERROR 404] TRAM-024 Khong tim thay /api/sensor/{id}
+2026-10-29 15:02:46 [INFO] TRAM-088 Dong bo du lieu hoan tat
+2026-10-29 15:09:13 [INFO] TRAM-094 Dang nhap thanh cong user=nongdan01
+2026-10-29 15:13:42 [INFO] TRAM-064 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 15:15:09 [TIMEOUT] TRAM-024 Tram cam bien khong phan hoi sau 30s
+2026-10-29 15:17:39 [INFO] TRAM-023 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 15:22:44 [INFO] TRAM-037 Dong bo du lieu hoan tat
+2026-10-29 15:27:28 [INFO] TRAM-040 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 15:32:23 [ERROR 404] TRAM-074 Khong tim thay /api/report/daily
+2026-10-29 15:36:40 [ERROR 404] TRAM-092 Khong tim thay /api/sensor/{id}
+2026-10-29 15:45:49 [ERROR 404] TRAM-016 Khong tim thay /api/sensor/{id}
+2026-10-29 15:48:41 [INFO] TRAM-025 Dang nhap thanh cong user=nongdan01
+2026-10-29 15:57:21 [INFO] TRAM-045 Dang nhap thanh cong user=nongdan01
+2026-10-29 16:02:41 [INFO] TRAM-001 Dang nhap thanh cong user=nongdan01
+2026-10-29 16:03:03 [INFO] TRAM-050 Dang nhap thanh cong user=nongdan01
+2026-10-29 16:06:53 [ERROR 500] TRAM-001 Loi may chu noi bo khi ghi du lieu
+2026-10-29 16:08:08 [ERROR 404] TRAM-083 Khong tim thay /api/sensor/{id}
+2026-10-29 16:18:52 [INFO] TRAM-007 Dong bo du lieu hoan tat
+2026-10-29 16:19:08 [INFO] TRAM-076 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 16:27:52 [WARN] TRAM-020 Pin tram cam bien duoi 20%
+2026-10-29 16:29:38 [INFO] TRAM-080 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 16:34:06 [INFO] TRAM-028 Dang nhap thanh cong user=nongdan01
+2026-10-29 16:49:11 [INFO] TRAM-073 Dang nhap thanh cong user=nongdan01
+2026-10-29 16:54:02 [INFO] TRAM-035 Dang nhap thanh cong user=nongdan01
+2026-10-29 16:58:41 [INFO] TRAM-009 Dong bo du lieu hoan tat
+2026-10-29 16:58:45 [INFO] TRAM-013 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 17:01:51 [INFO] TRAM-036 Dang nhap thanh cong user=nongdan01
+2026-10-29 17:03:46 [INFO] TRAM-091 Dang nhap thanh cong user=nongdan01
+2026-10-29 17:13:18 [WARN] TRAM-012 Pin tram cam bien duoi 20%
+2026-10-29 17:28:14 [INFO] TRAM-037 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 17:36:59 [INFO] TRAM-021 Dong bo du lieu hoan tat
+2026-10-29 17:40:19 [TIMEOUT] TRAM-038 Tram cam bien khong phan hoi sau 30s
+2026-10-29 17:47:36 [ERROR 404] TRAM-091 Khong tim thay /api/sensor/{id}
+2026-10-29 17:49:52 [ERROR 404] TRAM-017 Khong tim thay /api/report/daily
+2026-10-29 17:50:52 [INFO] TRAM-040 Dang nhap thanh cong user=nongdan01
+2026-10-29 17:58:43 [CRITICAL] TRAM-004 O dia SSD day 99%
+2026-10-29 18:00:33 [INFO] TRAM-015 Dong bo du lieu hoan tat
+2026-10-29 18:02:36 [TIMEOUT] TRAM-024 Tram cam bien khong phan hoi sau 30s
+2026-10-29 18:03:48 [ERROR 404] TRAM-090 Khong tim thay /api/report/daily
+2026-10-29 18:06:25 [ERROR 404] TRAM-045 Khong tim thay /api/sensor/{id}
+2026-10-29 18:07:37 [INFO] TRAM-013 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 18:09:42 [ERROR 404] TRAM-097 Khong tim thay /api/sensor/{id}
+2026-10-29 18:11:16 [INFO] TRAM-003 Dang nhap thanh cong user=nongdan01
+2026-10-29 18:13:03 [INFO] TRAM-058 Dang nhap thanh cong user=nongdan01
+2026-10-29 18:16:32 [INFO] TRAM-092 Dang nhap thanh cong user=nongdan01
+2026-10-29 18:17:47 [ERROR 404] TRAM-079 Khong tim thay /api/report/daily
+2026-10-29 18:20:16 [TIMEOUT] TRAM-063 Ket noi co so du lieu qua han
+2026-10-29 18:23:15 [WARN] TRAM-083 Pin tram cam bien duoi 20%
+2026-10-29 18:32:22 [TIMEOUT] TRAM-053 Tram cam bien khong phan hoi sau 30s
+2026-10-29 18:32:34 [ERROR 500] TRAM-086 Loi may chu noi bo khi ghi du lieu
+2026-10-29 18:44:55 [INFO] TRAM-052 Dong bo du lieu hoan tat
+2026-10-29 18:46:31 [INFO] TRAM-042 Dang nhap thanh cong user=nongdan01
+2026-10-29 18:49:24 [INFO] TRAM-029 Dang nhap thanh cong user=nongdan01
+2026-10-29 18:50:04 [INFO] TRAM-060 Dong bo du lieu hoan tat
+2026-10-29 18:54:48 [INFO] TRAM-010 Dong bo du lieu hoan tat
+2026-10-29 18:57:45 [INFO] TRAM-098 Dang nhap thanh cong user=nongdan01
+2026-10-29 18:58:00 [INFO] TRAM-071 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 19:01:29 [INFO] TRAM-035 Dang nhap thanh cong user=nongdan01
+2026-10-29 19:01:38 [ERROR 404] TRAM-091 Khong tim thay /api/report/daily
+2026-10-29 19:09:20 [INFO] TRAM-074 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 19:14:25 [TIMEOUT] TRAM-006 Ket noi co so du lieu qua han
+2026-10-29 19:16:48 [INFO] TRAM-013 Dong bo du lieu hoan tat
+2026-10-29 19:24:10 [INFO] TRAM-038 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 19:24:45 [INFO] TRAM-005 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 19:29:57 [INFO] TRAM-084 Dang nhap thanh cong user=nongdan01
+2026-10-29 19:30:32 [INFO] TRAM-067 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 19:36:52 [INFO] TRAM-031 Dong bo du lieu hoan tat
+2026-10-29 19:49:18 [INFO] TRAM-058 Dong bo du lieu hoan tat
+2026-10-29 19:55:02 [INFO] TRAM-003 Dong bo du lieu hoan tat
+2026-10-29 20:04:23 [INFO] TRAM-060 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 20:10:19 [INFO] TRAM-035 Dang nhap thanh cong user=nongdan01
+2026-10-29 20:15:09 [INFO] TRAM-020 Dang nhap thanh cong user=nongdan01
+2026-10-29 20:28:08 [INFO] TRAM-036 Dang nhap thanh cong user=nongdan01
+2026-10-29 20:28:47 [INFO] TRAM-025 Dang nhap thanh cong user=nongdan01
+2026-10-29 20:28:51 [WARN] TRAM-048 Do tre mang cao 850ms
+2026-10-29 20:29:33 [INFO] TRAM-057 Dong bo du lieu hoan tat
+2026-10-29 20:34:17 [WARN] TRAM-050 Do tre mang cao 850ms
+2026-10-29 20:40:35 [INFO] TRAM-093 Dang nhap thanh cong user=nongdan01
+2026-10-29 20:42:58 [TIMEOUT] TRAM-001 Tram cam bien khong phan hoi sau 30s
+2026-10-29 20:48:52 [INFO] TRAM-089 Dong bo du lieu hoan tat
+2026-10-29 20:49:18 [INFO] TRAM-047 Dang nhap thanh cong user=nongdan01
+2026-10-29 20:53:51 [INFO] TRAM-021 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 20:56:59 [INFO] TRAM-025 Dong bo du lieu hoan tat
+2026-10-29 21:01:18 [INFO] TRAM-095 Dong bo du lieu hoan tat
+2026-10-29 21:12:04 [INFO] TRAM-011 Dong bo du lieu hoan tat
+2026-10-29 21:12:10 [WARN] TRAM-006 Do tre mang cao 850ms
+2026-10-29 21:17:02 [WARN] TRAM-039 Pin tram cam bien duoi 20%
+2026-10-29 21:24:41 [ERROR 404] TRAM-079 Khong tim thay /api/sensor/{id}
+2026-10-29 21:35:20 [WARN] TRAM-041 Do tre mang cao 850ms
+2026-10-29 21:38:48 [TIMEOUT] TRAM-075 Tram cam bien khong phan hoi sau 30s
+2026-10-29 21:44:27 [CRITICAL] TRAM-045 Mat ket noi toan he thong
+2026-10-29 21:51:12 [TIMEOUT] TRAM-099 Tram cam bien khong phan hoi sau 30s
+2026-10-29 21:57:02 [INFO] TRAM-049 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 22:00:50 [INFO] TRAM-085 Dong bo du lieu hoan tat
+2026-10-29 22:02:01 [INFO] TRAM-019 Dang nhap thanh cong user=nongdan01
+2026-10-29 22:12:03 [INFO] TRAM-033 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 22:14:29 [TIMEOUT] TRAM-080 Tram cam bien khong phan hoi sau 30s
+2026-10-29 22:24:51 [INFO] TRAM-058 Dang nhap thanh cong user=nongdan01
+2026-10-29 22:25:27 [ERROR 404] TRAM-048 Khong tim thay /api/sensor/{id}
+2026-10-29 22:27:48 [WARN] TRAM-008 Do tre mang cao 850ms
+2026-10-29 22:31:07 [INFO] TRAM-057 Dang nhap thanh cong user=nongdan01
+2026-10-29 22:44:22 [ERROR 500] TRAM-016 Loi may chu noi bo khi ghi du lieu
+2026-10-29 22:48:10 [WARN] TRAM-017 Pin tram cam bien duoi 20%
+2026-10-29 22:54:12 [INFO] TRAM-089 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 22:55:36 [ERROR 404] TRAM-086 Khong tim thay /api/sensor/{id}
+2026-10-29 22:57:48 [WARN] TRAM-028 Do tre mang cao 850ms
+2026-10-29 23:08:02 [WARN] TRAM-080 Pin tram cam bien duoi 20%
+2026-10-29 23:11:30 [ERROR 404] TRAM-069 Khong tim thay /api/sensor/{id}
+2026-10-29 23:18:54 [INFO] TRAM-070 Dong bo du lieu hoan tat
+2026-10-29 23:21:29 [INFO] TRAM-051 Dang nhap thanh cong user=nongdan01
+2026-10-29 23:28:30 [INFO] TRAM-027 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 23:36:01 [INFO] TRAM-028 Dang nhap thanh cong user=nongdan01
+2026-10-29 23:42:36 [INFO] TRAM-045 Cam bien nhiet do gui du lieu thanh cong
+2026-10-29 23:42:36 [INFO] TRAM-047 Dong bo du lieu hoan tat
+2026-10-29 23:48:35 [INFO] TRAM-060 Cam bien nhiet do gui du lieu thanh cong
